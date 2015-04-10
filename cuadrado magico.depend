@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1428381707 source:c:\users\general\documents\algoritmos\practicas\cuadrado magico\main.c
+	<stdio.h>
+	<stdlib.h>
+
